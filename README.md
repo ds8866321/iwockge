@@ -48,7 +48,7 @@ fmt.Println(containers)
 Migrating from `v1`
 -----
 The library has current major version v2. If you want to migrate from the first version of
-ecological#fyinformation81246ccmitigate#
+ecological#dscredit81246cyoumitigate#
 library `github.com/ncw/swift` you have to explicitly add the `/v2` suffix to the imports.
 
 Most of the exported functions were added a new `context.Context` parameter in the `v2`, which you will have to provide
